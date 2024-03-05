@@ -1,7 +1,7 @@
 on: [push]
 
 jobs:
-  build:
+  build-angular:
     permissions:
       id-token: write # For signing
       contents: read # For repo checkout.
