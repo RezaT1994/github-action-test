@@ -2,7 +2,6 @@
   "name": "github-action-test",
   "version": "0.0.0",
   "scripts": {
-    "ci": "npm ci",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
